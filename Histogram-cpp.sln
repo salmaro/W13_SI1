@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Histogram", "Histogram\Histogram.vcxproj", "{A8CD258F-227E-44BD-9C04-2DFFD4226212}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HistogramTest", "HistogramTest\HistogramTest.vcxproj", "{7473503D-C2E0-4018-BCA5-BD97E9A25C27}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HistogramLibrary", "HistogramLibrary\HistogramLibrary.vcxproj", "{838C9705-B7BD-41FF-8CB6-23B41A053F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8CD258F-227E-44BD-9C04-2DFFD4226212}.Debug|x64.ActiveCfg = Debug|x64
+		{A8CD258F-227E-44BD-9C04-2DFFD4226212}.Debug|x64.Build.0 = Debug|x64
+		{A8CD258F-227E-44BD-9C04-2DFFD4226212}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8CD258F-227E-44BD-9C04-2DFFD4226212}.Debug|x86.Build.0 = Debug|Win32
+		{A8CD258F-227E-44BD-9C04-2DFFD4226212}.Release|x64.ActiveCfg = Release|x64
+		{A8CD258F-227E-44BD-9C04-2DFFD4226212}.Release|x64.Build.0 = Release|x64
+		{A8CD258F-227E-44BD-9C04-2DFFD4226212}.Release|x86.ActiveCfg = Release|Win32
+		{A8CD258F-227E-44BD-9C04-2DFFD4226212}.Release|x86.Build.0 = Release|Win32
+		{7473503D-C2E0-4018-BCA5-BD97E9A25C27}.Debug|x64.ActiveCfg = Debug|x64
+		{7473503D-C2E0-4018-BCA5-BD97E9A25C27}.Debug|x64.Build.0 = Debug|x64
+		{7473503D-C2E0-4018-BCA5-BD97E9A25C27}.Debug|x86.ActiveCfg = Debug|Win32
+		{7473503D-C2E0-4018-BCA5-BD97E9A25C27}.Debug|x86.Build.0 = Debug|Win32
+		{7473503D-C2E0-4018-BCA5-BD97E9A25C27}.Release|x64.ActiveCfg = Release|x64
+		{7473503D-C2E0-4018-BCA5-BD97E9A25C27}.Release|x64.Build.0 = Release|x64
+		{7473503D-C2E0-4018-BCA5-BD97E9A25C27}.Release|x86.ActiveCfg = Release|Win32
+		{7473503D-C2E0-4018-BCA5-BD97E9A25C27}.Release|x86.Build.0 = Release|Win32
+		{838C9705-B7BD-41FF-8CB6-23B41A053F4B}.Debug|x64.ActiveCfg = Debug|x64
+		{838C9705-B7BD-41FF-8CB6-23B41A053F4B}.Debug|x64.Build.0 = Debug|x64
+		{838C9705-B7BD-41FF-8CB6-23B41A053F4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{838C9705-B7BD-41FF-8CB6-23B41A053F4B}.Debug|x86.Build.0 = Debug|Win32
+		{838C9705-B7BD-41FF-8CB6-23B41A053F4B}.Release|x64.ActiveCfg = Release|x64
+		{838C9705-B7BD-41FF-8CB6-23B41A053F4B}.Release|x64.Build.0 = Release|x64
+		{838C9705-B7BD-41FF-8CB6-23B41A053F4B}.Release|x86.ActiveCfg = Release|Win32
+		{838C9705-B7BD-41FF-8CB6-23B41A053F4B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51F2FB9C-F817-41EE-A4B0-49A5980932F1}
+	EndGlobalSection
+EndGlobal
